@@ -30,9 +30,14 @@
 
 ## 💸 付费订阅
 
-[>> 便宜机场评测](https://www.ermao.net/resource/vpn/)
+[>> 便宜机场评测]
 
-我搜罗的一些比较便宜的机场（月消费10块以下），觉得免费订阅不好使的朋友们可以在这里面找找。
+✅EMO
+
+[点击链接](https://yyds.emovpn.top/#/register?code=rriKb734)
+
+免费：300G/月。 最低付费套餐：5元/1000G/月（不限终端，不限速，解锁流媒体）
+[![操，图挂了……](https://github.com/deezertidal/freevpn/raw/main/img/EMO.png)
 
 ## ⭐ 感谢支持
 
